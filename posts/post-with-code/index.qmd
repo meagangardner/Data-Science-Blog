@@ -3,7 +3,7 @@ title: "What Exactly is Data Science?"
 author: "Meagan Gardner"
 date: "2025-01-17"
 categories: [terminology, analysis]
-image: "image2.jpg"
+image: "wordcloud.jpg"
 ---
 
 ## The Dreaded Question
