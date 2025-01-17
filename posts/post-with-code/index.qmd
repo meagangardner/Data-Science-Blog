@@ -23,3 +23,4 @@ For example, imagine you’re working for a credit card company that wants to de
 Data scientists work with data to **find meaningful patterns** that answer important real-world questions. They might try to answer things like: *What insights can we gain from this data? How can we use this information to make better decisions or predictions? Can we use this information to predict outcomes or solve real-world problems?*
 
 ## It’s More Than Just "Big Data"
+![](tools.jpg){ width=500px }
