@@ -5,8 +5,6 @@ date: "2025-01-16"
 categories: [about]
 ---
 
-**Welcome to my Blog!**
-
 ![](thumbnail.jpg)
  
 Hi, I'm Meagan! I'm currently pursuing my Master’s in Data Science at UBC. However, prior to studying at UBC, I spent five years working in fundraising at an animal welfare charity. It was during this time that I first realized how much the field could benefit from more data experts, which ultimately inspired me to pursue my Master’s.
