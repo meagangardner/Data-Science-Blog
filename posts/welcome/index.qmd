@@ -1,7 +1,7 @@
 ---
 title: "Welcome To My Blog"
 author: "Meagan Gardner"
-date: "2025-01-17"
+date: "2025-01-16"
 categories: [about]
 ---
 

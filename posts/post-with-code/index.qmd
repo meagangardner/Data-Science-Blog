@@ -1,9 +1,25 @@
 ---
-title: "Post With Code"
+title: "What Exactly is Data Science?"
 author: "Meagan Gardner"
-date: "2025-01-15"
-categories: [news, code, analysis]
-image: "image.jpg"
+date: "2025-01-17"
+categories: [terminology, analysis]
+image: "image2.jpg"
 ---
 
-This is a post with executable code.
+## The Dreaded Question
+When I decided to go back to school to pursue my master's, I soon realized that came with a **guaranteed** question: *“What are you studying?”* Sometimes I’d try to give a vague reply, and say something like “Data Management” or “Data Analysis”, because I knew if I said the truth – that I’m studying Data Science – the next dreaded question to follow would be *“What is that?* I’d end up mumbling something vague like, “Oh, you know, just working with data to make it useful…” and quickly change the subject. The truth was, I didn't fully understand it myself at the time! After all, for those not familiar with the term Data Science, it can sound quite elusive – a scientist? Like in a lab?  
+  
+But as I started my degree and got exposed to this new world of data, I started to realize that data science isn't just about “working with data” – it’s about using data to answer questions, solve problems, predict the future, and sometimes, even save lives.
+
+So today, I’m going to go on a deep dive into the world of Data Science and try to answer this often elusive question: **“What is Data Science?”** 
+
+## So What Exactly is Data Science?
+![](puzzle.jpg){ width=400px }
+  
+Imagine you're trying to solve a mystery, but instead of a detective, you're using data to find answers. Data science is the process of gathering clues (data), sorting through them, and figuring out patterns or insights that can help you make better decisions or predictions. It’s like piecing together a puzzle – alone, the pieces don’t make much sense, but as you start connecting them together, a bigger picture begins to show.
+  
+For example, imagine you’re working for a credit card company that wants to detect fraudulent transactions. You might collect data on things like transaction amount, time, location, and past spending behaviour. A Data Scientist would help identify patterns that highlight suspicious activity, such as a sudden large purchase in a different country, which is likely to be fraudulent.
+  
+Data scientists work with data to **find meaningful patterns** that answer important real-world questions. They might try to answer things like: *What insights can we gain from this data? How can we use this information to make better decisions or predictions? Can we use this information to predict outcomes or solve real-world problems?*
+
+## It’s More Than Just "Big Data"
