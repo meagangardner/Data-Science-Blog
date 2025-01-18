@@ -50,7 +50,7 @@ After all of this, you might still be wondering “so does data science really m
   
 Now that we’ve dived into the world of Data Science, we have a clearer answer of the question: *What is Data Science?*
   
-**It’s the process of using data to solve problems and make predictions, using tools like programming, statistics, and machine learning. It can be applied to a wide range of fields, from science and healthcare, anywhere to business and finance.**  
+**It’s the process of using data to solve problems and make predictions, using tools like programming, statistics, and machine learning. It can be applied to a wide range of fields, anywhere from science and healthcare, to business and finance.**  
 
 Thank you for taking the time to read my blog post, and I hope this has helped you understand what data science is all about and how it’s changing the world around us!
 
